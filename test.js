@@ -1,2 +1,2 @@
 var testVar='test.js'
-alert('Hello world!');
+alert('Привет!');
